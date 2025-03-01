@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Properti dasar proyek -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <RootNamespace>RamairaBot</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <!-- Dependensi -->
+  <ItemGroup>
+    <!-- CounterStrikeSharp.API buat bot -->
+    <Reference Include="CounterStrikeSharp.API">
+      <HintPath>..\libs\CounterStrikeSharp.API.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <!-- File yang disertakan (biarin default, hapus duplikat) -->
+  <!-- Semua .cs di src dan subfolder otomatis kebaca -->
+
+  <!-- Output -->
+  <PropertyGroup>
+    <OutputPath>..\bin\Debug</OutputPath>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+
+</Project>

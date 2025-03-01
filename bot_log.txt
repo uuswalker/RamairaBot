@@ -1,0 +1,16 @@
+Team balance disabled and default bots kicked in Load.
+Round started at game time: 7.84375
+Kicking all bots before spawning custom bots.
+Spawned custom bot RamairaBot_0 at X: -1720, Y: -1896, Team: 3
+Spawned custom bot RamairaBot_1 at X: -1720, Y: -1896, Team: 3
+Spawned custom bot RamairaBot_2 at X: -1720, Y: -1896, Team: 3
+Spawned custom bot RamairaBot_3 at X: -1720, Y: -1896, Team: 3
+Spawned custom bot RamairaBot_4 at X: -1720, Y: -1896, Team: 3
+Spawned custom bot RamairaBot_5 at X: -500, Y: -500, Team: 2
+Spawned custom bot RamairaBot_6 at X: -500, Y: -500, Team: 2
+Spawned custom bot RamairaBot_7 at X: -500, Y: -500, Team: 2
+Spawned custom bot RamairaBot_8 at X: -500, Y: -500, Team: 2
+Spawned custom bot RamairaBot_9 at X: -500, Y: -500, Team: 2
+Finished spawning 10 bots.
+Player uuswalker joined Team CT (TeamNum: 2)
+Final Stats: K/D Ratio = 0.00

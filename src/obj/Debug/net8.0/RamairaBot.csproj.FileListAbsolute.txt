@@ -1,0 +1,13 @@
+C:\RamairaBot\bin\Debug\net8.0\RamairaBot.deps.json
+C:\RamairaBot\bin\Debug\net8.0\RamairaBot.dll
+C:\RamairaBot\bin\Debug\net8.0\RamairaBot.pdb
+C:\RamairaBot\src\obj\Debug\net8.0\RamairaBot.csproj.AssemblyReference.cache
+C:\RamairaBot\src\obj\Debug\net8.0\RamairaBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\RamairaBot\src\obj\Debug\net8.0\RamairaBot.AssemblyInfoInputs.cache
+C:\RamairaBot\src\obj\Debug\net8.0\RamairaBot.AssemblyInfo.cs
+C:\RamairaBot\src\obj\Debug\net8.0\RamairaBot.csproj.CoreCompileInputs.cache
+C:\RamairaBot\src\obj\Debug\net8.0\RamairaBot.csproj.Up2Date
+C:\RamairaBot\src\obj\Debug\net8.0\RamairaBot.dll
+C:\RamairaBot\src\obj\Debug\net8.0\refint\RamairaBot.dll
+C:\RamairaBot\src\obj\Debug\net8.0\RamairaBot.pdb
+C:\RamairaBot\src\obj\Debug\net8.0\ref\RamairaBot.dll

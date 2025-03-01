@@ -1,0 +1,40 @@
+RamairaBot/
+├── RamairaBot.sln
+├── RamairaBot/
+│   ├── RamairaBot.csproj
+│   └── src/
+│       ├── AI/
+│       │   ├── PPOModel.cs
+│       │   ├── PPOTrainer.cs
+│       │   └── ActionSelector.cs
+│       ├── BotLogic/
+│       │   ├── Pathfinding.cs
+│       │   ├── SteeringBehavior.cs
+│       │   └── ActionExecutor.cs
+│       ├── GameInterface/
+│       │   ├── GamePlugin.cs
+│       │   ├── InputProcessor.cs
+│       │   └── FeedbackProcessor.cs
+│       ├── Input/
+│       │   ├── KeyboardInput.cs
+│       │   └── MouseInput.cs
+│       ├── Output/
+│       │   ├── MovementOutput.cs
+│       │   └── CombatOutput.cs
+│       ├── PPOCommunicator.cs
+│       ├── DataFormatter.cs
+│       ├── ActionInterpreter.cs
+│       └── Tests/
+│           ├── CoreTests/
+│           │   ├── PPOModelTests.cs
+│           │   └── PathfindingTests.cs
+│           └── PluginTests/
+│               ├── InputProcessorTests.cs
+│               └── ActionExecutorTests.cs
+├── docs/
+│   ├── architecture.md
+│   └── api.md
+├── README.md
+├── bin/
+├── obj/
+└── libs/

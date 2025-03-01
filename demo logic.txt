@@ -1,0 +1,44 @@
+Header
+-------
+- Demo version
+- Game name
+- Map name
+- Playback time
+- Tick count
+
+Frame Data
+----------
+- Tick number
+- Player position
+- Player rotation
+- Player velocity
+- Active weapon
+- Player health
+- Player armor
+
+Events
+------
+- Player death
+- Player kill
+- Bomb plant/defuse (untuk permainan seperti Counter-Strike)
+- Round start/end
+
+Player Actions
+--------------
+- Move forward/backward
+- Move left/right
+- Jump
+- Crouch
+- Fire weapon
+- Reload
+
+Game State
+----------
+- Score
+- Round time
+- Team status
+
+Command Data
+------------
+- User commands (input dari pemain)
+- Server commands (perintah dari server)
